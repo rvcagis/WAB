@@ -19,7 +19,7 @@
     }
   },
   "portalUrl": "https://gisd.dfo-mpo.gc.ca/portal",
-  "appId": "9NxEF1XRi3sYEYXJ",
+  "appId": "",
   "authorizedCrossOriginDomains": [],
   "title": "Test WAB Dev",
   "subtitle": "with ArcGIS Web AppBuilder",
